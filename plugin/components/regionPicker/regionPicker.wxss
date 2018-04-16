@@ -1,0 +1,18 @@
+
+.section{
+    padding: 20rpx;
+}
+
+.section-title{
+    font-size: 30rpx;
+    line-height: 40rpx;
+    text-align: center;
+    color: #666;
+}
+
+.picker{
+    margin: 20rpx auto;
+    text-align: center;
+    font-size: 30rpx;
+    color: #666;
+}

@@ -1,0 +1,4 @@
+<!--引入插件  -->
+<regionPicker region="{{region}}" bindchangeEvent="changeEvent" />
+
+<button class='submit' catchtap='submit'>提交</button>
